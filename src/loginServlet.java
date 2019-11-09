@@ -20,6 +20,8 @@ import javax.servlet.ServletException;
 @WebServlet("/loginServ")
 public class loginServlet extends HttpServlet {
 	
+	//TODO: replace all this with login funcionality:
+	
 	private static final long serialVersionUID = 1L;
 	
 	protected void service (HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
